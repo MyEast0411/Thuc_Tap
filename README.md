@@ -1,1 +1,3 @@
-# Thuc_Tap
+# cd FE
+# npm i --force
+# npm run dev
